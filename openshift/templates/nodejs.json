@@ -89,7 +89,7 @@
             "from": {
               "kind": "ImageStreamTag",
               "namespace": "${NAMESPACE}",
-              "name": "nodejs:4"
+              "name": "php:5.5"
             },
             "env":  [
               {
